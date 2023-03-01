@@ -1,0 +1,1618 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    max-width: 100%;
+    height: 100vh;
+    background-color: #1273EB;
+    color: #fff;
+}
+.main ul li a {
+    color: #fff;
+    font-size: 15px;
+}
+.main .header {
+    display: flex;
+    width: 100%;
+}
+.sell {
+    margin-left: 250px;
+}
+.pricing a{
+    color: #ffff00;
+}
+.log {
+    margin: 0 20px 0 10px;
+    list-style-type: none;
+    font-size: 15px;
+}
+.log a{
+    color: #fff;
+    text-decoration: none;
+}
+.sign {
+    border: 1px solid #fff;
+    background: transparent;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 15px;
+    font-size: 15px;
+}
+.main h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+.main {
+    text-align: center;
+    font-size: 20px;
+}
+.assets {
+    width: 55%;
+    margin-top: 40px;
+}
+.assets .in {
+    height: 60px;
+    font-size: 20px;
+    border-radius: 0px !important;
+}
+.assets span {
+    background-color: #fff;
+}
+.drop {
+    width: 30%;
+}
+.drop a{
+    text-decoration: none;
+    color: #000;
+}
+.button button{
+    border: 1px solid #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    background: transparent;
+    color: #fff;
+    width: 12%;
+}
+.button button:hover {
+    color: #000;
+    background-color: #fff;
+}
+.vimtpftb {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin-top: 70px;
+}
+.vimtpftb img {
+    width: 7.5%;
+    border-radius: 100%;
+    border: 2px solid #1273EB;
+    outline: 2px solid #fff;
+}
+.vimtpftb img:hover {
+    cursor: pointer;
+}
+.name {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.free {
+    display: flex;
+    justify-content: center;
+    background-color: #C7EBFF;
+    padding: 30px 0 10px 0;
+    font-size: 18px;
+    color: #808080;
+}
+.free button {
+    width: 13%;
+    height: 40px;
+    color: #fff;
+    background-color: #1273EB;
+    border-radius: 10px;
+    border: none;
+    margin: -10px 0 0 10px;
+}
+.hp {
+    margin-top: 70px;
+}
+.hp h2{
+    color:#374957;
+    text-align: center;
+}
+.hp span {
+    color: #1273EB;
+}
+.hp p {
+    color: #808080;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+.women {
+    max-width: 100%;
+    margin-top: 50px;
+}
+.inspiration img{
+    width: 99%;
+    cursor: pointer;
+    margin-left: 20px;
+    border-radius: 20px 0 0 0;
+}
+.team  img {
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.appreciation img {
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 0 20px 0 0;
+}
+.appreciation .girl {
+    border-radius: 0px;
+}
+.aacw {
+    max-width: 100%;
+}
+.autumn img {
+    width: 100%;
+    cursor: pointer;
+    margin-left: 20px;
+    border-radius: 0 0 0 20px;
+}
+.acai img {
+    width: 100%;
+    cursor: pointer;
+    margin-left: 13px;
+}
+.cubes img {
+    width: 100%;
+    cursor: pointer;
+}
+.flamingo img {
+    width: 100%;
+    cursor: pointer;
+    border-radius: 0 0 20px 0;
+}
+.unlock {
+    margin: 100px 0 0 25px;
+}
+.unlock p {
+    color: #374957;
+    font-size: 18px;
+}
+.cpbe {
+    max-width: 100%;
+    margin-top: 50px;
+}
+.cartoon img {
+    width: 100%;
+    cursor: pointer;
+    margin-left: 15px;
+    border-radius: 20px;
+    height: 350px;
+}
+.photo img {
+    width: 100%;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 15px;
+    height: 350px;
+}
+.black img {
+    width: 100%;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 15px;
+    height: 350px;
+}
+.eco img {
+    width: 100%;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 15px;
+    height: 350px;
+}
+.smartest {
+    margin-top: 100px;
+}
+.smartest span {
+    color: #1273EB;
+}
+.smartest h2 {
+    text-align: center;
+}
+.smartest p {
+    text-align: center;
+    color: #374957;
+    font-size: 18px;
+}
+.hr {
+    max-width: 100%;
+    margin-top: 80px;
+}
+.hrgf {
+    width: 50%;
+}
+.high {
+    display: flex;
+}
+.high p {
+    color: #5F7D95;
+    width: 90%;
+}
+.star i {
+    font-size: 25px;
+}
+.star {
+    margin: 10px 10px 0 0;
+    padding: 9px 0 0 15px;
+    width: 80px;
+    height: 50px;
+    color: #1273EB;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+}
+.ready {
+    display: flex;
+}
+.ready p {
+    color: #5F7D95;
+    width: 90%;
+}
+.thumb i {
+    font-size: 25px;
+}
+.thumb {
+    margin: 10px 10px 0 0;
+    padding: 10px 0 0 15px;
+    width: 80px;
+    height: 50px;
+    color: #1273EB;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+}
+.search {
+    display: flex;
+}
+.search p {
+    color: #5F7D95;
+    width: 90%;
+}
+.glass i {
+    font-size: 25px;
+}
+.glass {
+    margin: 10px 10px 0 0;
+    padding: 12px 0 0 15px;
+    width: 60px;
+    height: 50px;
+    color: #1273EB;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+}
+.fresh {
+    display: flex;
+}
+.fresh p {
+    color: #5F7D95;
+    width: 90%;
+}
+.arrow i {
+    font-size: 25px;
+}
+.arrow {
+    margin: 10px 10px 0 0;
+    padding: 11px 0 0 16px;
+    width: 80px;
+    height: 50px;
+    color: #1273EB;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+}
+.res {
+    width: 50%;
+}
+.res img {
+    width: 100%;
+}
+.celebration {
+    max-width: 100%;
+    margin-top: 150px;
+}
+.events {
+    width: 50%;
+    margin: 130px 0 0 0 ;
+    padding-left: 120px;
+}
+.events h6 {
+    font-size: 20px;
+}
+.events p {
+    color: #BAC8D3;
+    font-size: 25px;
+}
+.events span {
+    color: #FEC343;
+}
+.events button {
+    margin-top: 30px;
+    width: 33%;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: #374957;
+    color: #fff;
+}
+.calendar {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}   
+.calendar img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.jc {
+    max-width: 95%;
+    margin: 150px 0 0 25px;
+    background-color: #d3d3d3;
+    height: 320px;
+    border-radius: 20px;
+}
+.join {
+    width: 50%;
+}
+.join h3 {
+    margin: 50px 0 0 80px;
+}
+.join p {
+    margin: 30px 0 0 80px;
+    font-size: 20px;
+    width: 80%;
+    color: #374957;
+}
+.join span {
+    color: #1273EB;
+}
+.join button {
+    margin: 30px 0 0 80px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #1273EB;
+}
+.community {
+    width: 50%;
+}
+.community img {
+    width: 100%;
+    height: 400px;
+    margin-top: -50px;
+}
+.bottom {
+    background-color: #BAC8D3;
+}
+.list {
+    margin: 150px 0 0 50px;
+    padding-top: 50px;
+}
+.list ol{
+    display: inline-block;
+  vertical-align: top;
+  padding-left: 0;
+}
+.list ol li{
+    list-style-type: none;
+    line-height: 2.5em;
+    cursor: pointer;
+    color: #374957;
+}
+.links li {
+    width: 100%;
+}
+.gltf img{
+    margin: 10px 0 0 5px;
+}
+.tiy p {
+    margin-top: 10px;
+    color: #374957;
+    line-height: 1.3em;
+}
+.tiy button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #1273EB;
+}
+@media only screen and (max-width : 1200px) {
+    .main .header {
+        display: flex;
+        width: 100%;
+        margin: 0;
+    }
+    .sell {
+        margin-left: 100px;
+    }
+    .pricing a{
+        color: #ffff00;
+    }
+    .log {
+        margin: 0 20px 0 10px;
+        list-style-type: none;
+        font-size: 15px;
+    }
+    .log a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .sign {
+        border: 1px solid #fff;
+        background: transparent;
+        width: 80px;
+        height: 30px;
+        border-radius: 10px;
+        color: #fff;
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .main h1 {
+        margin: 0;
+        padding: 0;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .main {
+        text-align: center;
+        font-size: 20px;
+    }
+    .assets {
+        width: 55%;
+        margin-top: 40px;
+    }
+    .assets .in {
+        height: 60px;
+        font-size: 20px;
+        border-radius: 0px !important;
+    }
+    .assets span {
+        background-color: #fff;
+    }
+    .drop {
+        width: 30%;
+    }
+    .drop a{
+        text-decoration: none;
+        color: #000;
+    }
+    .button button{
+        border: 1px solid #fff;
+        font-size: 15px;
+        border-radius: 10px;
+        background: transparent;
+        color: #fff;
+        width: 14%;
+    }
+    .button button:hover {
+        color: #000;
+        background-color: #fff;
+    }
+    .celebration {
+        max-width: 100%;
+        margin-right: 0;
+        padding: 0;
+        margin-top: 150px;
+    }
+    .events {
+        width: 50%;
+        margin: 130px 0 0 0 ;
+        padding-left: 120px;
+    }
+    .events h6 {
+        font-size: 20px;
+    }
+    .events p {
+        color: #BAC8D3;
+        font-size: 25px;
+    }
+    .events span {
+        color: #FEC343;
+    }
+    .events button {
+        margin-top: 30px;
+        width: 35%;
+        height: 45px;
+        border-radius: 10px;
+        border: none;
+        background-color: #374957;
+        color: #fff;
+    }
+    .calendar {
+        width: 50%;
+        margin: 0;
+        padding: 0;
+    }   
+    .calendar img {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media only screen and (max-width : 992px) {
+    .main .header {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin: 0;
+    }
+    .sell {
+        margin: 0;
+    }
+    .pricing a{
+        color: #ffff00;
+    }
+    .log {
+        margin: 0 20px 0 10px;
+        list-style-type: none;
+        font-size: 15px;
+    }
+    .log a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .sign {
+        border: 1px solid #fff;
+        background: transparent;
+        width: 80px;
+        height: 30px;
+        border-radius: 10px;
+        color: #fff;
+        margin: 15px 0 0 0;
+        font-size: 15px;
+    }
+    .main h1 {
+        margin: 0;
+        padding: 0;
+        margin-top: 25px;
+        text-align: center;
+    }
+    .main {
+        text-align: center;
+        font-size: 20px;
+    }
+    .assets {
+        width: 60%;
+        margin-top: 40px;
+    }
+    .assets .in {
+        height: 60px;
+        font-size: 20px;
+        border-radius: 0px !important;
+    }
+    .assets span {
+        background-color: #fff;
+    }
+    .drop {
+        width: 30%;
+    }
+    .drop a{
+        text-decoration: none;
+        color: #000;
+    }
+    .button button{
+        border: 1px solid #fff;
+        font-size: 15px;
+        border-radius: 10px;
+        background: transparent;
+        color: #fff;
+        width: 17%;
+    }
+    .button button:hover {
+        color: #000;
+        background-color: #fff;
+    }
+    .women {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .inspiration img{
+        width: 99%;
+        cursor: pointer;
+        margin: 0 0 20px 20px;
+        border-radius: 20px 20px 0 0;
+    }
+    .team  img {
+        width: 100%;
+        margin: 0 0 10px 20px;
+        cursor: pointer;
+        border-radius: 0 0 0 20px;
+    }
+    .appreciation img {
+        width: 100%;
+        margin-bottom: 10px;
+        cursor: pointer;
+        border-radius: 0;
+    }
+    .appreciation .girl {
+        border-radius: 0 0 20px 0;
+    }
+    .aacw {
+        max-width: 100%;
+    }
+    .autumn img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 20px;
+        border-radius: 20px 0 0 20px;
+    }
+    .acai img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 13px;
+    }
+    .cubes img {
+        width: 100%;
+        cursor: pointer;
+    }
+    .flamingo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 0 20px 20px 0;
+    }
+    .unlock {
+        margin: 100px 0 0 25px;
+    }
+    .unlock p {
+        color: #374957;
+        font-size: 18px;
+    }
+    .cpbe {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .cartoon img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 10px;
+        border-radius: 20px;
+        height: 350px;
+    }
+    .photo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 350px;
+    }
+    .black img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 350px;
+    }
+    .eco img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 350px;
+    }
+    .smartest {
+        margin-top: 100px;
+    }
+    .smartest span {
+        color: #1273EB;
+    }
+    .smartest h2 {
+        text-align: center;
+    }
+    .smartest p {
+        text-align: center;
+        color: #374957;
+        font-size: 18px;
+    }
+    .hr {
+        max-width: 100%;
+        margin-top: 80px;
+    }
+    .hrgf {
+        width: 50%;
+    }
+    .high {
+        display: flex;
+    }
+    .high p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .star i {
+        font-size: 25px;
+    }
+    .star {
+        margin: 10px 10px 0 0;
+        padding: 10px 0 0 10px;
+        width: 100px;
+        height: 50px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .ready {
+        display: flex;
+    }
+    .ready p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .thumb i {
+        font-size: 25px;
+    }
+    .thumb {
+        margin: 10px 10px 0 0;
+        padding: 10px 0 0 10px;
+        width: 100px;
+        height: 50px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .search {
+        display: flex;
+    }
+    .search p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .glass i {
+        font-size: 25px;
+    }
+    .glass {
+        margin: 10px 10px 0 0;
+        padding: 12px 0 0 10px;
+        width: 75px;
+        height: 50px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .fresh {
+        display: flex;
+    }
+    .fresh p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .arrow i {
+        font-size: 25px;
+    }
+    .arrow {
+        margin: 10px 10px 0 0;
+        padding: 12px 0 0 10px;
+        width: 105px;
+        height: 50px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .res {
+        width: 50%;
+    }
+    .res img {
+        width: 100%;
+    }
+    .celebration {
+        max-width: 100%;
+        margin-right: 0;
+        padding: 0;
+        margin-top: 150px;
+    }
+    .events {
+        width: 50%;
+        margin: 130px 0 0 0 ;
+        padding-left: 120px;
+    }
+    .events h6 {
+        font-size: 20px;
+    }
+    .events p {
+        color: #BAC8D3;
+        font-size: 25px;
+    }
+    .events span {
+        color: #FEC343;
+    }
+    .events button {
+        margin-top: 30px;
+        width: 35%;
+        height: 45px;
+        border-radius: 10px;
+        border: none;
+        background-color: #374957;
+        color: #fff;
+    }
+    .calendar {
+        width: 50%;
+        margin: 0;
+        padding: 0;
+    }   
+    .calendar img {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media only screen and (max-width : 767px) {
+    .main .header {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin: 0;
+    }
+    .sell {
+        margin: 0;
+    }
+    .pricing a{
+        color: #ffff00;
+    }
+    .log {
+        margin: 0 20px 0 10px;
+        list-style-type: none;
+        font-size: 15px;
+    }
+    .log a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .sign {
+        border: 1px solid #fff;
+        background: transparent;
+        width: 80px;
+        height: 30px;
+        border-radius: 10px;
+        color: #fff;
+        margin: 15px 0 0 0;
+        font-size: 15px;
+    }
+    .main h1 {
+        margin: 0;
+        padding: 0;
+        margin-top: 25px;
+        text-align: center;
+    }
+    .main {
+        text-align: center;
+        font-size: 20px;
+    }
+    .assets {
+        width: 70%;
+        margin-top: 40px;
+    }
+    .assets .in {
+        height: 60px;
+        font-size: 20px;
+        border-radius: 0px !important;
+    }
+    .assets span {
+        background-color: #fff;
+    }
+    .drop {
+        width: 30%;
+    }
+    .drop a{
+        text-decoration: none;
+        color: #000;
+    }
+    .button button{
+        border: 1px solid #fff;
+        font-size: 15px;
+        border-radius: 10px;
+        background: transparent;
+        color: #fff;
+        width: 20%;
+    }
+    .button button:hover {
+        color: #000;
+        background-color: #fff;
+    }
+    .free button {
+        width: 20%;
+        height: 40px;
+        color: #fff;
+        background-color: #1273EB;
+        border-radius: 10px;
+        border: none;
+        margin: -10px 0 0 10px;
+    }
+    .women {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .inspiration img{
+        width: 99%;
+        cursor: pointer;
+        margin: 0 0 20px 20px;
+        border-radius: 20px 20px 0 0;
+    }
+    .team  img {
+        padding: 0;
+        width: 100%;
+        margin: 0 0 10px 20px;
+        cursor: pointer;
+        border-radius: 0 0 0 20px;
+    }
+    .appreciation img {
+        width: 100%;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        border-radius: 0;
+    }
+    .appreciation .girl {
+        border-radius: 0 0 20px 0;
+    }
+    .aacw {
+        max-width: 100%;
+    }
+    .autumn img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 20px;
+        border-radius: 20px 0 0 20px;
+    }
+    .acai img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+    .cubes img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .flamingo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 0 20px 20px 0;
+        margin-left: 10px;
+    }
+    .unlock {
+        margin: 100px 0 0 25px;
+    }
+    .unlock p {
+        color: #374957;
+        font-size: 18px;
+    }
+    .cpbe {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .cartoon img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 10px;
+        border-radius: 20px;
+        height: 300px;
+    }
+    .photo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .black img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .eco img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .smartest {
+        margin-top: 100px;
+    }
+    .smartest span {
+        color: #1273EB;
+    }
+    .smartest h2 {
+        text-align: center;
+    }
+    .smartest p {
+        text-align: center;
+        color: #374957;
+        font-size: 18px;
+    }
+    .hr {
+        max-width: 100%;
+        margin-top: 80px;
+    }
+    .hrgf {
+        width: 50%;
+    }
+    .high {
+        display: flex;
+    }
+    .high p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .star i {
+        font-size: 18px;
+    }
+    .star {
+        margin: 10px 10px 0 0;
+        padding: 8px 0 0 5px;
+        width: 100px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .ready {
+        display: flex;
+    }
+    .ready p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .thumb i {
+        font-size: 18px;
+    }
+    .thumb {
+        margin: 10px 10px 0 0;
+        padding: 8px 0 0 5px;
+        width: 100px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .search {
+        display: flex;
+    }
+    .search p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .glass i {
+        font-size: 18px;
+    }
+    .glass {
+        margin: 10px 10px 0 0;
+        padding: 10px 0 0 8px;
+        width: 75px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .fresh {
+        display: flex;
+    }
+    .fresh p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .arrow i {
+        font-size: 18px;
+    }
+    .arrow {
+        margin: 10px 10px 0 0;
+        padding: 10px 0 0 8px;
+        width: 105px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .res {
+        width: 50%;
+    }
+    .res img {
+        width: 100%;
+    }
+    .celebration {
+        max-width: 100%;
+        margin-right: 0;
+        padding: 0;
+        margin-top: 50px;
+    }
+    .events {
+        width: 50%;
+        margin: 50px 0 0 0 ;
+        padding-left: 120px;
+    }
+    .events h6 {
+        font-size: 20px;
+    }
+    .events p {
+        color: #BAC8D3;
+        font-size: 20px;
+    }
+    .events span {
+        color: #FEC343;
+    }
+    .events button {
+        margin-top: 20px;
+        width: 60%;
+        height: 45px;
+        border-radius: 10px;
+        border: none;
+        background-color: #374957;
+        color: #fff;
+    }
+    .calendar {
+        width: 50%;
+        margin: 0;
+        padding: 0;
+    }   
+    .calendar img {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .jc {
+        max-width: 95%;
+        margin: 150px 0 0 25px;
+        background-color: #d3d3d3;
+        height: 320px;
+        border-radius: 20px;
+    }
+    .join {
+        width: 50%;
+    }
+    .join h3 {
+        margin: 25px 0 0 40px;
+    }
+    .join p {
+        margin: 15px 0 0 40px;
+        font-size: 18px;    
+        width: 80%;
+        color: #374957;
+    }
+    .join span {
+        color: #1273EB;
+    }
+    .join button {
+        margin: 15px 0 0 40px;
+        width: 140px;
+        height: 40px;
+        border: none;
+        border-radius: 10px;
+        color: #fff;
+        background-color: #1273EB;
+    }
+    .community {
+        width: 50%;
+    }
+    .community img {
+        width: 100%;
+        height: 400px;
+        margin-top: -50px;
+    }
+}
+@media only screen and (max-width : 576px) {
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .main{
+        max-width: 100%;
+        height: 80vh;
+        background-color: #1273EB;
+        color: #fff;
+    }
+    .main ul li a {
+        color: #fff;
+        font-size: 15px;
+    }
+    .main .header {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin: 0;
+    }
+    .sell {
+        margin: 0;
+    }
+    .pricing a{
+        color: #ffff00;
+    }
+    .log {
+        margin: 0 20px 0 10px;
+        list-style-type: none;
+        font-size: 15px;
+    }
+    .log a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .sign {
+        border: 1px solid #fff;
+        background: transparent;
+        width: 80px;
+        height: 30px;
+        border-radius: 10px;
+        color: #fff;
+        margin: 15px 0 0 0;
+        font-size: 15px;
+    }
+    .main h1 {
+        margin: 0;
+        padding: 0;
+        margin-top: 25px;
+        text-align: center;
+        font-size: 20px;
+    }
+    .main {
+        text-align: center;
+        font-size: 12px;
+    }
+    .assets {
+        width: 90%;
+        margin-top: 40px;
+    }
+    .assets .in {
+        height: 40px;
+        font-size: 15px;
+    }
+    .assets span {
+        background-color: #fff;
+    }
+    .drop {
+        width: 30%;
+    }
+    .drop a{
+        text-decoration: none;
+        color: #000;
+    }
+    .button button{
+        border: 1px solid #fff;
+        font-size: 15px;
+        border-radius: 10px;
+        background: transparent;
+        color: #fff;
+        width: 27%;
+    }
+    .button button:hover {
+        color: #000;
+        background-color: #fff;
+    }
+    .name {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 15px;
+        font-size: 12px;
+        cursor: pointer;
+        margin-left: -10px;
+    }
+    .name {
+        width: 100%;
+    }
+    .free button {
+        width: 25%;
+        height: 40px;
+        color: #fff;
+        background-color: #1273EB;
+        border-radius: 10px;
+        border: none;
+        margin: -10px 0 0 10px;
+    }
+    .hp {
+        margin-top: 35px;
+    }
+    .hp h2{
+        color:#374957;
+        text-align: center;
+        font-size: 20px;
+    }
+    .hp span {
+        color: #1273EB;
+    }
+    .hp p {
+        color: #808080;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .women {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .inspiration img{
+        width: 99%;
+        cursor: pointer;
+        margin: 0 0 20px 20px;
+        border-radius: 20px 20px 0 0;
+    }
+    .team  img {
+        padding: 0;
+        width: 100%;
+        margin: 0 0 10px 20px;
+        cursor: pointer;
+        border-radius: 0 0 0 20px;
+    }
+    .appreciation img {
+        width: 100%;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        border-radius: 0;
+    }
+    .appreciation .girl {
+        border-radius: 0 0 20px 0;
+    }
+    .aacw {
+        max-width: 100%;
+    }
+    .autumn img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 20px;
+        border-radius: 20px 0 0 20px;
+    }
+    .acai img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+    .cubes img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .flamingo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 0 20px 20px 0;
+        margin-left: 10px;
+    }
+    .unlock {
+        margin: 50px 0 0 25px;
+    }
+    .unlock p {
+        color: #374957;
+        font-size: 15px;
+    }
+    .cpbe {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+    .cartoon img {
+        width: 100%;
+        cursor: pointer;
+        margin-left: 10px;
+        border-radius: 20px;
+        height: 300px;
+    }
+    .photo img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .black img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .eco img {
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: 15px;
+        height: 300px;
+    }
+    .smartest {
+        margin-top: 50px;
+    }
+    .smartest span {
+        color: #1273EB;
+    }
+    .smartest h2 {
+        text-align: center;
+        font-size: 20px;
+    }
+    .smartest p {
+        text-align: center;
+        color: #374957;
+        font-size: 12px;
+    }
+    .hr {
+        max-width: 100%;
+        margin-top: 40px;
+    }
+    .hrgf {
+        width: 100%;
+    }
+    .high {
+        display: flex;
+    }
+    .high p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .star i {
+        font-size: 15px;
+    }
+    .star {
+        margin: 10px 20px 0 0;
+        padding: 8px 0 0 10px;
+        width: 50px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .ready {
+        display: flex;
+    }
+    .ready p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .thumb i {
+        font-size: 15px;
+    }
+    .thumb {
+        margin: 10px 20px 0 0;
+        padding: 8px 0 0 10px;
+        width: 50px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .search {
+        display: flex;
+    }
+    .search p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .glass i {
+        font-size: 15px;
+    }
+    .glass {
+        margin: 10px 20px 0 0;
+        padding: 10px 0 0 13px;
+        width: 40px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .fresh {
+        display: flex;
+    }
+    .fresh p {
+        color: #5F7D95;
+        width: 90%;
+    }
+    .arrow i {
+        font-size: 15px;
+    }
+    .arrow {
+        margin: 10px 20px 0 0;
+        padding: 10px 0 0 13px;
+        width: 50px;
+        height: 40px;
+        color: #1273EB;
+        background-color: #d3d3d3;
+        border-radius: 10px;
+    }
+    .res {
+        width: 100%;
+    }
+    .res img {
+        width: 100%;
+    }
+    .celebration {
+        max-width: 100%;
+        padding: 0;
+        margin: 25px 0 0 0;
+    }
+    .events {
+        width: 100%;
+    }
+    .events h6 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .events p {
+        text-align: center;
+        color: #BAC8D3;
+        font-size: 18px;
+    }
+    .events span {
+        color: #FEC343;
+    }
+    .events button {
+        margin: 10px 0 0 140px;
+        width: 30%;
+        height: 45px;
+        border-radius: 10px;
+        border: none;
+        background-color: #374957;
+        color: #fff;
+    }
+    .calendar {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }   
+    .calendar img {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .jc {
+        max-width: 95%;
+        margin: 50px 0 0 15px;
+        background-color: #d3d3d3;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .join {
+        width: 100%;
+    }
+    .join h3 {
+        margin: 25px 0 0 40px;
+        font-size: 20px;
+    }
+    .join p {
+        margin: 15px 0 0 40px;
+        font-size: 15px;    
+        width: 80%;
+        color: #374957;
+    }
+    .join span {
+        color: #1273EB;
+    }
+    .join button {
+        margin: 15px 0 0 40px;
+        width: 100px;
+        height: 40px;
+        border: none;
+        font-size: 12px;
+        border-radius: 10px;
+        color: #fff;
+        background-color: #1273EB;
+    }
+    .community {
+        margin: 50px 0;
+        width: 100%;
+    }
+    .community img {
+        width: 100%;
+}
+.list {
+    margin-top: 400px;
+}
+
+}
